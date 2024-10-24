@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap");
 /* ============================================================================ */
 body{
-   height: 100%;
+   height: fit-content;
    line-height: 1;
    font-size: 14px;
    background-color: #333;
